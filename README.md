@@ -13,4 +13,4 @@ An implementation of a lightweight, autonomous SRE AI agent designed to integrat
 *   **Observability Core:** Prometheus, Git Core API, Log forwarders (Fluentd/Vector)
 *   **Performance Optimization:** Redis Semantic Caching
 
-*Deployed and optimized as a modern AI-DevOps showcase during advanced SRE technical practice.*
+*Deployed and optimized as a modern AI-DevOps showcase during advanced SRE PoC.*
